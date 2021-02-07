@@ -33,9 +33,9 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 *   🚓 **Modération**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
 *   ⭐ **couleur**: `couleur`, `couleurhasard`, `creecouleur`, `creedefaultcolors`, et **+**! 
 *   🎲 **Fun**: `clyde`, `blague`, `kiss`, `fakeban`, `trumptweet` et **+**! 
-*   🖨️ **Général**: `bienvenue`, `feedback`, `pseudo`, et **+**! 
 *   🎮 **Jeux**: `8ball`, `coinflip`, `pfc`, et **+**! 
 *   ⌛ **Backup**: `creebackup`, `chargerbackup`, `infobackup` ! 
+*   📨 **Invitation**: `addbonus`, `addrank`, `configdm`, `configjoin`, `configleave`, `invitation` et **+**!
 *   👤 **Avatar**: `a-suivre`, `alcatraz-filtre`, `alcatraz-logo`, `psg`, `om`, et **+**! 
 *   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
 *   🔔 **Info**: `admins`, `avatar`, `invitemoi`, `members`, `saloninfo` et **+**! 
@@ -43,17 +43,9 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 *   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
 
 ## Bot liste
-[![](https://top.gg/api/widget/805425141580169226.svg)](https://top.gg/bot/805425141580169226) [![](https://infinitybotlist.com/bots/805425141580169226/widget?size=small)](https://infinitybotlist.com/bots/805425141580169226) [![](https://discord.boats/api/widget/805425141580169226)](https://discord.boats/bot/805425141580169226) [![](https://botsfordiscord.com/api/bot/805425141580169226/widget)](https://botsfordiscord.com/bots/805425141580169226)
- <a href="https://voidbots.net/bot/805425141580169226" >
-  <img src="https://voidbots.net/api/embed/805425141580169226" width="300" alt="Alcatraz" />
-
+*   [discord-list.cf](https://discord-list.cf/bots/805425141580169226)
 
 
 ## Lien utiles
 
-*   [Discord](https://discord.gg/TwXbSSzmqu)
-*   [Github](https://github.com/GalackQSM/AlcatrazBot)
-*   [Donation](https://www.patreon.com/AlcatrazBot)
-*   [Site](https://alcatraz-bot.com)
-
-
+*   [Discord](https://discord.gg/TwXbSSzmqu) *   [Github](https://github.com/GalackQSM/AlcatrazBot) *   [Donation](https://www.patreon.com/AlcatrazBot) *   [Site](https://alcatraz-bot.com)
