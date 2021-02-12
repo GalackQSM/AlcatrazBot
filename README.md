@@ -5,7 +5,7 @@
 [![](https://img.shields.io/discord/805514340245569536.svg?logo=discord&colorB=7289DA)](https://discord.gg/aGP5kvxFEc)
 [![](https://img.shields.io/badge/discord.js-v12.4.1-blue.svg?logo=npm)](https://discord.js.org/)
 [![](https://img.shields.io/badge/nodejs-14.15.0-green.svg)](https://www.nodejs.org)
-[![](https://img.shields.io/badge/patreon-donation-orange.svg)](https://www.patreon.com/AlcatrazBot)
+[![](https://img.shields.io/badge/paypal-donation-blue.svg)](https://www.paypal.com/pools/c/8wQWKDb807)
 [![](https://www.codefactor.io/repository/gitlab/galackqsm/alcatraz/badge)](https://www.codefactor.io/repository/gitlab/galackqsm/AlcatrazBot)
 [![](https://top.gg/api/widget/status/805425141580169226.svg)](https://top.gg/bot/774652242787041310)
 [![](https://top.gg/api/widget/upvotes/805425141580169226.svg)](https://top.gg/bot/774652242787041310)
@@ -48,4 +48,4 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 
 ## Lien utiles
 
-*   [Discord](https://discord.gg/TwXbSSzmqu) [Github](https://github.com/GalackQSM/AlcatrazBot) [Donation](https://www.paypal.com/paypalme/GalackQSM) [Site](https://alcatraz-bot.com)
+*   [Discord](https://discord.gg/TwXbSSzmqu) [Github](https://github.com/GalackQSM/AlcatrazBot) [Donation](https://www.paypal.com/pools/c/8wQWKDb807) [Site](https://alcatraz-bot.com)
