@@ -43,9 +43,10 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 *   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
 
 ## Bot liste
-*   [discord-list.cf](https://discord-list.cf/bots/805425141580169226)
+*   [discord-list.cf](https://discord-list.cf/bots/805425141580169226) | [![Bots for Discord](https://botsfordiscord.com/bots/805425141580169226)
+
 
 
 ## Lien utiles
 
-*   [Discord](https://discord.gg/TwXbSSzmqu) [Github](https://github.com/GalackQSM/AlcatrazBot) [Donation](https://www.paypal.com/pools/c/8wQWKDb807) [Site](https://alcatraz-bot.com)
+*   [Discord](https://discord.gg/TwXbSSzmqu) [Github](https://github.com/GalackQSM/AlcatrazBot) [Donation](https://www.paypal.com/pools/c/8wQWKDb807) [Site](https://alcatraz-bot.com) 
