@@ -20,7 +20,7 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 Offres de Alcatraz:
 * 💥 Un bot 100% Français pas comme les autres
-* 💯 Plus de 215 commandes
+* 💯 Plus de 260 commandes
 * 🌐 Des commandes en tout genre, Rôle couleur, Fun, Nsfw, Modération, Général, Image etc...
 * 🤩 Besoin que d'un bot au mieux de plusieurs
 * ⚙️ Rejoins la communautés de Alcatraz Empire
@@ -40,7 +40,7 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 *   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
 *   🔔 **Info**: `admins`, `avatar`, `invitemoi`, `members`, `saloninfo` et **+**! 
 *   🏆 **Points**: `actionpoints`, `couronne`, `givepoints`, `leaderboard`, `position` et **+**! 
-*   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
+*   🛡️ **__Protection:__** `antiban`, `antigiverole`, `antilink`, `raidmode` et +!
 
 ## Bot liste
 *   [discord-list.cf](https://discord-list.cf/bots/805425141580169226) | [Bots for Discord](https://botsfordiscord.com/bots/805425141580169226)
