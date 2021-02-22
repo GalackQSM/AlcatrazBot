@@ -32,8 +32,7 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 *   👩‍💼 **Administration**: `desacategorie`, `randomcolor`, `setautokick`, `setwelcomechannel`, `setwelcomemessage` et **+**! 
 *   🚓 **Modération**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
 *   ⭐ **couleur**: `couleur`, `couleurhasard`, `creecouleur`, `creedefaultcolors`, et **+**! 
-*   🎲 **Fun**: `clyde`, `blague`, `kiss`, `fakeban`, `trumptweet` et **+**! 
-*   🎮 **Jeux**: `8ball`, `coinflip`, `pfc`, et **+**! 
+*   🎲 **Fun**: `clyde`, `blague`, `kiss`, `fakeban`, `trumptweet`, `puissance4`, `morpion` et **+**! 
 *   ⌛ **Backup**: `creebackup`, `chargerbackup`, `infobackup` ! 
 *   📨 **Invitation**: `addbonus`, `addrank`, `configdm`, `configjoin`, `configleave`, `invitation` et **+**!
 *   👤 **Avatar**: `a-suivre`, `alcatraz-filtre`, `alcatraz-logo`, `psg`, `om`, et **+**! 
